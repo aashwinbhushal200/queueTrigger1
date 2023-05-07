@@ -2,8 +2,7 @@
   "profiles": {
     "queueTrigger1": {
       "commandName": "Project",
-      "commandLineArgs": "--port 7006",
-      "launchBrowser": false
+      "commandLineArgs": "host start --pause-on-error --port 5800"
     }
   }
 }
